@@ -14,7 +14,7 @@ int main () {
   ifstream ficherolectura;
   ofstream ficherosalida;
   double deltam[3], theta[3];
-  double E, L, n_iteraciones;
+  double E, L, n_espacios;
   char neutrino_inicial, neutrino_final;
   int i;
   
@@ -63,7 +63,7 @@ int main () {
     // los resultados que obtenga y escribirlos en un fichero
 
     cout << "Introduzca el numero de iteraciones que desea:" << endl;
-    cin << n_iteraciones; //me da el numero de divisiones de longitud
+    cin << n_espacios; //me da el numero de divisiones de longitud
 
     
 
