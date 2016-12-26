@@ -6,8 +6,6 @@
 //Podemos calcular la probabilidad de que el estado nu_alfa
 //vaya al estado nu_beta como atributo privado de la clase
 
-//Tambien necesitamos una funcion que nos lea y nos guarde
-//los coeficientes del estado neutrino
 
 //Usamos libgsl para tratar numeros complejos y matrices
 
